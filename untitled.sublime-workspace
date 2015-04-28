@@ -195,10 +195,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 287.0,
-		"last_filter": "pack in",
+		"height": 327.0,
+		"last_filter": "scss",
 		"selected_items":
 		[
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
 			[
 				"pack in",
 				"Package Control: Install Package"
@@ -301,13 +309,36 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/ric/projects/projects_html5",
-		"/Users/ric/projects/projects_html5/blog_front_end",
-		"/Users/ric/projects/projects_html5/blog_front_end/css",
-		"/Users/ric/projects/projects_html5/html5_site"
+		"/Users/ric/projects/projects_bootstrap",
+		"/Users/ric/projects/projects_bootstrap/app_salespage",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/.tmp",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/.tmp/styles",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/app",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/app/scripts",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/app/styles",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/bower_components",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/bower_components/bootstrap-sass-official/assets",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap",
+		"/Users/ric/projects/projects_bootstrap/mystarter/app",
+		"/Users/ric/projects/projects_bootstrap/mystarter/app/styles",
+		"/Users/ric/projects/projects_bootstrap/starter/css"
 	],
 	"file_history":
 	[
+		"/Users/ric/projects/projects_bootstrap/app_salespage/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_responsive-utilities.scss",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/app/index.html",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/.tmp/styles/main.css",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/app/styles/styles.scss",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/gulpfile.js",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/app/styles/main.scss",
+		"/Users/ric/projects/projects_bootstrap/mystarter/app/styles/styles.scss",
+		"/Users/ric/projects/projects_bootstrap/starter/css/style.css",
+		"/Users/ric/projects/projects_bootstrap/starter/index.html",
+		"/Users/ric/projects/projects_bootstrap/mystarter/app/index.html",
+		"/Users/ric/projects/projects_bootstrap/mystarter/.gitignore",
+		"/Users/ric/projects/projects_bootstrap/mystarter/app/styles/main.scss",
+		"/Users/ric/projects/projects_bootstrap/mystarter/gulpfile.js",
 		"/Users/ric/projects/projects_html5/blog_front_end/add-post.html",
 		"/Users/ric/projects/projects_html5/blog_front_end/css/main.css",
 		"/Users/ric/projects/projects_html5/html5_site/index.html",
@@ -421,25 +452,11 @@
 		"/Users/ric/rails_projects/next1/Gemfile",
 		"/Users/ric/rails_projects/TwitForZomb/.gitignore",
 		"/Users/ric/rails_projects/next1/app/helpers/application_helper.rb",
-		"/Users/ric/rails_projects/next1/app/models/user.rb",
-		"/Users/ric/rails_projects/next1/app/controllers/application_controller.rb",
-		"/Users/ric/rails_projects/next1/db/migrate/20140322135455_add_remember_token_to_users.rb",
-		"/Users/ric/rails_projects/next1/spec/requests/static_pages_spec.rb",
-		"/Users/ric/rails_projects/next1/config/routes.rb",
-		"/Users/ric/rails_projects/next1/app/views/sessions/new.html.erb",
-		"/Users/ric/rails_projects/next1/app/views/layouts/application.html.erb",
-		"/Users/ric/rails_projects/next1/app/controllers/static_pages_controller.rb",
-		"/Users/ric/rails_projects/next1/app/views/static_pages/about.html.erb",
-		"/Users/ric/rails_projects/next1/db/migrate/20140322110055_add_remember_token_to_users.rb",
-		"/Users/ric/rails_projects/next1/app/views/users/new.html.erb",
-		"/Users/ric/Library/Application Support/Sublime Text 2/Packages/RubyTest/Default (OSX).sublime-keymap",
-		"/Users/ric/Library/Application Support/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings",
-		"/Users/ric/foundation/first/index.html",
-		"/Users/ric/rails_projects/next1/app/views/shared/_error_messages.html.erb"
+		"/Users/ric/rails_projects/next1/app/models/user.rb"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -455,6 +472,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			" @include responsive-invisibility('.hidden-print');",
+			"nav-text",
+			".em-text",
 			"float",
 			"Quintana Roo",
 			">\n",
