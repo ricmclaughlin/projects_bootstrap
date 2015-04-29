@@ -2,11 +2,15 @@ body {
   padding-top: 50px;
 }
 
+section {
+	padding: 40px 0 40px 0;
+}
+
 .navbar-header .navbar-brand, .em-text {
 	color: #1caa98;
 }
 
-.jumbotron .app-btn {
+.jumbotron img.app-btn {
 	width: 40%;
 	margin-right: 30px;
 }
@@ -26,7 +30,14 @@ body {
 	margin-bottom: 40px;
 }
 
-.jumbotron .showcase-img {
+.jumbotron img.showcase-img {
 	width: 75%;
 
 }
+
+img.demo {
+	width: 100%;
+	padding: 3px;
+	border: 1px solid #ccc;
+}
+
