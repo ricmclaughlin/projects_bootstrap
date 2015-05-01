@@ -4,16 +4,36 @@
 		"selected_items":
 		[
 			[
-				"list",
-				"list-n	list-style-type: none;"
-			],
-			[
-				"margin",
-				"margin-bottom"
+				"paddin",
+				"padding-top"
 			],
 			[
 				"mar",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"margin",
 				"margin-top"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"list",
+				"list-n	list-style-type: none;"
 			],
 			[
 				"max",
@@ -199,22 +219,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "app_salespage/index.html",
-			"settings":
-			{
-				"buffer_size": 5393,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app_salespage/css/style.css",
-			"settings":
-			{
-				"buffer_size": 897,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -339,18 +343,19 @@
 	[
 		"/Users/ric/projects/projects_bootstrap",
 		"/Users/ric/projects/projects_bootstrap/app_salespage",
-		"/Users/ric/projects/projects_bootstrap/app_salespage/css",
-		"/Users/ric/projects/projects_bootstrap/app_salespage/img"
+		"/Users/ric/projects/projects_bootstrap/app_salespage/css"
 	],
 	"file_history":
 	[
+		"/Users/ric/projects/projects_bootstrap/app_salespage/css/style.css",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/index.html",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/about.html",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/contact.html",
 		"/Users/ric/projects/projects_bootstrap/mystarter/app/index.html",
 		"/Users/ric/projects/projects_bootstrap/mystarter/app/styles/styles.scss",
 		"/Users/ric/projects/projects_bootstrap/mystarter/gulpfile.js",
 		"/Users/ric/projects/projects_bootstrap/mystarter/.tmp/styles/main.css",
 		"/Users/ric/projects/projects_bootstrap/mystarter/app/scripts/styles.scss",
-		"/Users/ric/projects/projects_bootstrap/app_salespage/css/style.css",
-		"/Users/ric/projects/projects_bootstrap/app_salespage/index.html",
 		"/Users/ric/projects/projects_bootstrap/app_salespage/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_responsive-utilities.scss",
 		"/Users/ric/projects/projects_bootstrap/app_salespage/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss",
 		"/Users/ric/projects/projects_bootstrap/app_salespage/app/index.html",
@@ -469,9 +474,7 @@
 		"/Users/ric/rails_projects/next1/app/controllers/sessions_controller.rb",
 		"/Users/ric/rails_projects/TwitForZomb/TwitForZomb.sublime-project",
 		"/Users/ric/rails_projects/next1/spec/requests/authentication_pages_spec.rb",
-		"/Users/ric/rails_projects/next1/spec/models/user_spec.rb",
-		"/Users/ric/rails_projects/next1/app/assets/javascripts/application.js",
-		"/Users/ric/rails_projects/next1/app/views/layouts/_header.html.erb"
+		"/Users/ric/rails_projects/next1/spec/models/user_spec.rb"
 	],
 	"find":
 	{
@@ -524,67 +527,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "app_salespage/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5393,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4985,
-								4985
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 702.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app_salespage/css/style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 897,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								895,
-								895
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
