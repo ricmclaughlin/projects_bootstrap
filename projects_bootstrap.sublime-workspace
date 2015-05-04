@@ -4,44 +4,52 @@
 		"selected_items":
 		[
 			[
-				"paddin",
-				"padding-top"
+				"ngc",
+				"ng-click	AngularJS"
 			],
 			[
-				"mar",
-				"margin-bottom"
+				"ng-re",
+				"ng-repeat	AngularJS"
 			],
 			[
-				"marg",
-				"margin"
+				"ngcl",
+				"ng-class	AngularJS"
 			],
 			[
-				"text",
-				"text-align"
+				"ng",
+				"ng-bind	AngularJS"
 			],
 			[
-				"back",
-				"background-image"
+				"ngsw",
+				"ng-switch-default	AngularJS"
 			],
 			[
-				"margin",
-				"margin-top"
+				"ng-shw",
+				"ng-switch-when	AngularJS"
 			],
 			[
-				"backgrou",
-				"background-size"
+				"ng-in",
+				"ng-init	AngularJS"
+			],
+			[
+				"ngin",
+				"ng-init	AngularJS"
 			],
 			[
 				"list",
 				"list-n	list-style-type: none;"
 			],
 			[
-				"max",
-				"max-width"
+				"margin",
+				"margin-bottom"
 			],
 			[
-				"ng",
-				"ng-bind	AngularJS"
+				"mar",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-width"
 			],
 			[
 				"link",
@@ -227,20 +235,36 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 327.0,
-		"last_filter": "scss",
+		"height": 392.0,
+		"last_filter": "ang",
 		"selected_items":
 		[
+			[
+				"ang",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Angular.js)"
+			],
 			[
 				"scss",
 				"Set Syntax: SCSS"
 			],
 			[
 				"pack ins",
-				"Package Control: Install Package"
-			],
-			[
-				"pack in",
 				"Package Control: Install Package"
 			],
 			[
@@ -320,7 +344,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 530.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -339,18 +363,15 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/ric/projects/projects_bootstrap",
-		"/Users/ric/projects/projects_bootstrap/app_salespage",
-		"/Users/ric/projects/projects_bootstrap/app_salespage/css"
-	],
 	"file_history":
 	[
-		"/Users/ric/projects/projects_bootstrap/app_salespage/css/style.css",
+		"/Users/ric/projects/ng/ang_jumpstart/helloworld/fourth.html",
+		"/Users/ric/projects/ng/ang_jumpstart/helloworld/fifth.html",
+		"/Users/ric/projects/ng/ang_jumpstart/helloworld/third.html",
+		"/Users/ric/projects/ng/ang_jumpstart/helloworld/index.html",
+		"/Users/ric/projects/ng/ang_jumpstart/helloworld/second.html",
 		"/Users/ric/projects/projects_bootstrap/app_salespage/index.html",
-		"/Users/ric/projects/projects_bootstrap/app_salespage/about.html",
-		"/Users/ric/projects/projects_bootstrap/app_salespage/contact.html",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/css/style.css",
 		"/Users/ric/projects/projects_bootstrap/mystarter/app/index.html",
 		"/Users/ric/projects/projects_bootstrap/mystarter/app/styles/styles.scss",
 		"/Users/ric/projects/projects_bootstrap/mystarter/gulpfile.js",
@@ -471,14 +492,11 @@
 		"/Users/ric/rails_projects/next1/spec/requests/user_pages_spec.rb",
 		"/Users/ric/rails_projects/next1/app/controllers/users_controller.rb",
 		"/Users/ric/rails_projects/next1/app/helpers/sessions_helper.rb",
-		"/Users/ric/rails_projects/next1/app/controllers/sessions_controller.rb",
-		"/Users/ric/rails_projects/TwitForZomb/TwitForZomb.sublime-project",
-		"/Users/ric/rails_projects/next1/spec/requests/authentication_pages_spec.rb",
-		"/Users/ric/rails_projects/next1/spec/models/user_spec.rb"
+		"/Users/ric/rails_projects/next1/app/controllers/sessions_controller.rb"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -572,7 +590,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "untitled.sublime-project",
+	"project": "projects_bootstrap.sublime-project",
 	"replace":
 	{
 		"height": 42.0
