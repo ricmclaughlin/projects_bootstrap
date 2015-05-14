@@ -106,7 +106,23 @@ header .logo {
 	border-bottom: 1px solid #ccc;
 	overflow: auto;
 }
+.members .member-row {
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
 
+.profile ul {
+	margin-top: 30px;
+}
+.profile il {
+	list-style-type: none;
+	line-height: 1.9em;
+
+}
+.members img {
+	margin: 5px;
+}
 footer {
 	background: #f4f4f4;
 	height: 90px;
@@ -116,5 +132,26 @@ footer {
 	padding-top: 40px;
 	margin-top: 30px;
 	border-top: 7px solid #04519b;
+}
 
+.photos {
+	margin: 0;
+	padding: 0;
+
+}
+
+.photos li{
+	list-style-type: none;
+	float: left;
+	margin: 5px;
+	width: 23%;
+}
+.photos img{
+	width: 100%;
+}
+
+@media(min-width: 991px) {
+	.members p {
+		padding-top: 40px;
+	}
 }

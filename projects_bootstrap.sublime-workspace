@@ -4,6 +4,42 @@
 		"selected_items":
 		[
 			[
+				"mar",
+				"margin"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"bw",
+				"border-width"
+			],
+			[
+				"bs",
+				"bds-s	border-style: solid;"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
 				"ngc",
 				"ng-click	AngularJS"
 			],
@@ -38,14 +74,6 @@
 			[
 				"list",
 				"list-n	list-style-type: none;"
-			],
-			[
-				"margin",
-				"margin-bottom"
-			],
-			[
-				"mar",
-				"margin-top"
 			],
 			[
 				"max",
@@ -235,25 +263,49 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 392.0,
-		"last_filter": "ang",
+		"height": 289.0,
+		"last_filter": "pack in",
 		"selected_items":
 		[
 			[
-				"ang",
-				"Set Syntax: HTML (Angular.js)"
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Colorsublime: Install Theme"
 			],
 			[
 				"color",
 				"Colorsublime: Install Theme"
 			],
 			[
-				"colo",
-				"Colorsublime: Browse Themes"
+				"pac in",
+				"Package Control: Install Package"
 			],
 			[
-				"pack in",
-				"Package Control: Install Package"
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ang",
+				"Set Syntax: HTML (Angular.js)"
 			],
 			[
 				"ht",
@@ -304,10 +356,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"Package Control: ",
-				"Package Control: Install Package"
-			],
-			[
 				"ruby",
 				"Set Syntax: Ruby"
 			],
@@ -344,7 +392,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 575.0
+		"width": 530.0
 	},
 	"console":
 	{
@@ -363,14 +411,47 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/ric/projects/projects_bootstrap",
+		"/Users/ric/projects/projects_bootstrap/dobble",
+		"/Users/ric/projects/projects_bootstrap/dobble/css",
+		"/Users/ric/projects/projects_bootstrap/dobble/fonts",
+		"/Users/ric/projects/projects_bootstrap/model"
+	],
 	"file_history":
 	[
+		"/Users/ric/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ric/projects/projects_bootstrap/dobble/css/style.css",
+		"/Users/ric/projects/projects_bootstrap/dobble/index.html",
+		"/Users/ric/projects/projects_bootstrap/dobble/profile.html",
+		"/Users/ric/projects/projects_bootstrap/app_salespage/index.html",
+		"/Users/ric/projects/projects_bootstrap/grunt-includes-example/Gruntfile.js",
+		"/Users/ric/projects/projects_bootstrap/grunt_includes_test/Gruntfile.js",
+		"/Users/ric/projects/projects_bootstrap/grunt_includes_test/package.json",
+		"/Users/ric/projects/projects_bootstrap/sales_site/Gruntfile.js",
+		"/Users/ric/.bash_profile",
+		"/Users/ric/projects/projects_bootstrap/grunt-includes-example/build/index.html",
+		"/Users/ric/projects/projects_bootstrap/grunt-includes-example/include/main.html",
+		"/Users/ric/projects/projects_bootstrap/grunt-includes-example/site/index.html",
+		"/Users/ric/projects/projects_bootstrap/grunt-includes-example/Readme.md",
+		"/Users/ric/Downloads/BubbleSort.java",
+		"/Users/ric/projects/projects_bootstrap/incl_repl_test/Gruntfile.js",
+		"/Users/ric/projects/projects_bootstrap/bake_test/Gruntfile.js",
+		"/Users/ric/projects/projects_bootstrap/bake_test/app/includes/header.html",
+		"/Users/ric/projects/projects_bootstrap/bake_test/app/includes/ender.html",
+		"/Users/ric/projects/projects_bootstrap/bake_test/app/index.html",
+		"/Users/ric/projects/projects_bootstrap/model/01sales_page/index.html",
+		"/Users/ric/projects/projects_bootstrap/sales_site/app/index.html",
+		"/Users/ric/projects/projects_bootstrap/sales_site/app/styles/main.scss",
+		"/Users/ric/projects/projects_bootstrap/model/01sales_page/css/style.css",
+		"/Users/ric/projects/projects_bootstrap/.gitignore",
+		"/Users/ric/projects/projects_bootstrap/model/yo_webapp/app/index.html",
 		"/Users/ric/projects/ng/ang_jumpstart/helloworld/fourth.html",
 		"/Users/ric/projects/ng/ang_jumpstart/helloworld/fifth.html",
 		"/Users/ric/projects/ng/ang_jumpstart/helloworld/third.html",
 		"/Users/ric/projects/ng/ang_jumpstart/helloworld/index.html",
 		"/Users/ric/projects/ng/ang_jumpstart/helloworld/second.html",
-		"/Users/ric/projects/projects_bootstrap/app_salespage/index.html",
 		"/Users/ric/projects/projects_bootstrap/app_salespage/css/style.css",
 		"/Users/ric/projects/projects_bootstrap/mystarter/app/index.html",
 		"/Users/ric/projects/projects_bootstrap/mystarter/app/styles/styles.scss",
@@ -467,40 +548,15 @@
 		"/Users/ric/rails_projects/flixtest/Gemfile",
 		"/Users/ric/rails_projects/flixtest/spec/spec_helper.rb",
 		"/Users/ric/rails_projects/flixtest/spec/features/list_movies_spec.rb",
-		"/Users/ric/rails_projects/flixtest/spec/show_movie_spec.rb",
-		"/Users/ric/rails_projects/rubotest/rubocop-todo.yml",
-		"/Users/ric/rails_projects/flixtest/spec/support/database_cleaner.rb",
-		"/Users/ric/rails_projects/next1/gemfile",
-		"/Users/ric/rails_projects/crowdfundtest/crowdfundtest.sublime-project",
-		"/Users/ric/rails_projects/flixtest/flixtest.sublime-project",
-		"/Users/ric/rails_projects/crowdfundtest/Gemfile",
-		"/Users/ric/rails_projects/flixtest/gemfile",
-		"/Users/ric/rails_projects/crowdfund/app/views/projects/index.html.erb",
-		"/Users/ric/rails_projects/crowdfund/app/controllers/projects_controller.rb",
-		"/Users/ric/rails_projects/crowdfund/config/routes.rb",
-		"/Users/ric/rails_projects/crowdfund/app/views/projects/show.html.erb",
-		"/Users/ric/rails_projects/crowdfund/app/models/project.rb",
-		"/Users/ric/rails_projects/crowdfund/app/helpers/projects_helper.rb",
-		"/Users/ric/rails_projects/crowdfund/.gitignore",
-		"/Users/ric/rails_projects/flix/app/helpers/movies_helper.rb",
-		"/Users/ric/rails_projects/flix/app/views/movies/index.html.erb",
-		"/Users/ric/rails_projects/crowdfund/db/migrate/20140325125632_create_projects.rb",
-		"/Users/ric/rails_projects/crowdfund/crowdfund.sublime-project",
-		"/Users/ric/rails_projects/flix/app/controllers/movies_controller.rb",
-		"/Users/ric/rails_projects/flix/config/routes.rb",
-		"/Users/ric/rails_projects/flix/flix.sublime-project",
-		"/Users/ric/rails_projects/next1/spec/requests/user_pages_spec.rb",
-		"/Users/ric/rails_projects/next1/app/controllers/users_controller.rb",
-		"/Users/ric/rails_projects/next1/app/helpers/sessions_helper.rb",
-		"/Users/ric/rails_projects/next1/app/controllers/sessions_controller.rb"
+		"/Users/ric/rails_projects/flixtest/spec/show_movie_spec.rb"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 			"/Users/ric/rails_projects/next1",
@@ -512,6 +568,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"bake",
+			"app",
+			"\"img",
+			"img",
 			".navbar-header .navbar-brand",
 			" @include responsive-invisibility('.hidden-print');",
 			"nav-text",
@@ -535,6 +595,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"\"images"
 		],
 		"reverse": false,
 		"show_context": false,
@@ -593,7 +654,7 @@
 	"project": "projects_bootstrap.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -602,6 +663,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"index",
+				"app_salespage/index.html"
+			],
 			[
 				"proin",
 				"projects/ember_todo_MVC/index.html"
@@ -689,10 +754,6 @@
 			[
 				"gem",
 				"Gemfile"
-			],
-			[
-				"index",
-				"app/views/movies/index.html.erb"
 			],
 			[
 				"contro",
@@ -946,8 +1007,8 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
-	"side_bar_width": 186.0,
+	"side_bar_visible": false,
+	"side_bar_width": 332.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
